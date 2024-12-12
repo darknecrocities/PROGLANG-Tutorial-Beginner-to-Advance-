@@ -120,3 +120,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 🌈 Happy coding with Prolog! 🚀
+
+#### Created by Arron Kian M. Parejas
