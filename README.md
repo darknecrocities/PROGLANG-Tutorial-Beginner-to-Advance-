@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive Prolog tutorial designed for learners at all levels. The tutorial is divided into three parts, each covering progressively advanced topics, complete with examples and detailed explanations.
 
----
+----------
 
 ## 📜 Table of Contents
 
